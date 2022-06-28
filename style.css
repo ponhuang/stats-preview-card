@@ -1,4 +1,4 @@
-/* COLOR */
+/*------------ COLOR ------------*/
 :root {
   --very-dark-blue: hsl(233, 47%, 7%);
   --dark-desaturated-blue: hsl(244, 38%, 16%);
@@ -38,7 +38,7 @@ body {
   height: 37rem;
 }
 
-/* CONTENT LEFT */
+/*------------ CONTENT LEFT ------------*/
 .content-left {
   padding: 5rem;
   margin-right: 3rem;
@@ -60,7 +60,7 @@ body {
   margin-bottom: 6rem;
 }
 
-/* DATA CONTAINER */
+/*------------ DATA CONTAINER ------------*/
 .data-container {
   display: flex;
   justify-content: space-between;
@@ -86,7 +86,7 @@ body {
   color: var(--slightly-transparent-white);
 }
 
-/* CONTENT RIGHT */
+/*------------ CONTENT RIGHT ------------*/
 .content-right {
   background-image: linear-gradient(
       to right,
@@ -97,7 +97,7 @@ body {
   background-size: cover;
 }
 
-/* FOOTER */
+/*------------ FOOTER ------------*/
 .attribution {
   color: var(--slightly-transparent-white);
   font-size: 1.2rem;
@@ -107,7 +107,8 @@ body {
   color: var(--soft-violet);
 }
 
-@media screen and (max-width: 37.5em) {
+/*------------ 1000px -----------*/
+@media screen and (max-width: 62.5em) {
   .container {
     grid-template-rows: 40% 1fr;
     height: 75rem;
