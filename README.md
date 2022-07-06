@@ -36,7 +36,7 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ponhuang/stats-preview-card)
+- Solution URL: [Add solution URL here](https://github.com/ponhuang/3-column-preview-card)
 - Live Site URL: [Add live site URL here](https://ponhuang.github.io/stats-preview-card/)
 
 ## My process

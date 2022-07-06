@@ -25,6 +25,11 @@ body {
   font-family: "Inter", sans-serif;
   color: var(--white);
   background-color: var(--very-dark-blue);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
